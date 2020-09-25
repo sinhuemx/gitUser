@@ -6,3 +6,5 @@ storybook-static
 schema.graphql
 __generated__
 src/token.js
+build
+public
